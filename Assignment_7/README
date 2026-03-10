@@ -1,0 +1,7 @@
+
+Assignment 7: Basic Multimodal Image Captioning System using CLIP
+
+Implements a multimodal image captioning system using OpenAI's CLIP model.
+Uses zero-shot contrastive learning to rank candidate captions against images.
+
+Run: python main.py
